@@ -1,0 +1,60 @@
+div {
+    width: 500px;
+    height: auto;
+    background-color: rgb(223, 206, 175);
+    margin: auto;
+    border-radius: 20px;
+
+}
+
+.room {
+    display: inline;
+    cursor: pointer;
+    width: 70px;
+    height: 50px;
+    font-size: large;
+    text-decoration-line: none;
+    border-radius: 15px;
+}
+
+.new {
+    width: 30px;
+    border-radius: 7px;
+}
+
+.select {
+    width: 150px;
+    border-radius: 7px;
+    border: 10px 10px rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(214, 227, 240);
+}
+
+.link {
+    width: 70px;
+    height: 40px;
+    border-radius: 7px;
+    border: 10px 10px rgb(255, 255, 255);
+    background-color: rgb(198, 220, 235);
+    border-radius: 5px;
+}
+
+.addLink {
+    width: 120px;
+    height: 60px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color: rgb(198, 220, 235);
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+.device {
+    /* display: inline; */
+    width: 90px;
+    height: 20px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    background-color: aliceblue;
+}
